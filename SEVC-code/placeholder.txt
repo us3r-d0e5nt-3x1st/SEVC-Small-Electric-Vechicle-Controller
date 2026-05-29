@@ -1,0 +1,1 @@
+still need to work on that, propably gonna generate it through ST's STM32 Motor Control Software Development Kit (MCSDK) and add display control myself
